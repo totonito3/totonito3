@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://www.bertindev.me)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://www.bertintam.me)
 
 <h1 align="center">Hi 👋, I'm Bertin Tamegnon</h1>
 <h3 align="center">A passionate full stack web developer</h3>
