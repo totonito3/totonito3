@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **btamegnon3@gmail.com**
 
-- 📄 Know about my experiences [https://www.bertintam.me/resume](https://www.bertintam.me/resume)
+- 📄 Know about my experiences [https://bertintam.me/resume/Bertin%20Tamegnon%20CV%20HQ.pdf](https://bertintam.me/resume/Bertin%20Tamegnon%20CV%20HQ.pdf)
 
 - ⚡ Fun fact **I enjoy BasketBall and listen to audiobooks... a lot**
 
